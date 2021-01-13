@@ -1,0 +1,4 @@
+spring:
+  banner:
+    image:
+      location: static/bird.jpeg

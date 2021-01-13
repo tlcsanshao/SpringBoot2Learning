@@ -1,0 +1,20 @@
+#spring:
+#  redis:
+#    host: 47.92.88.180
+
+
+# 哨兵模式连接
+spring:
+  redis:
+    sentinel:
+      master: mymaster
+      nodes: 47.92.88.180:26379
+  cache:
+    type: redis
+  lettuce:
+    pool:
+      max-idle: 10
+      max-active: 20
+      min-idle: 5
+      max-wait: 10000ms
+

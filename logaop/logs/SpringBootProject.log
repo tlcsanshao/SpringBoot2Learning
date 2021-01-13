@@ -1,0 +1,88 @@
+2021-01-13 14:34:47.174 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Starting LogaopApplication using Java 11.0.6 on sanshao.local with PID 34634 (/Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning/logaop/target/classes started by qiansanshao in /Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning)
+2021-01-13 14:34:47.176 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - No active profile set, falling back to default profiles: default
+2021-01-13 14:34:47.211 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-13 14:34:47.211 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-13 14:34:48.005 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 14:34:48.013 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-01-13 14:34:48.014 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 14:34:48.014 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 14:34:48.060 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 14:34:48.060 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 848 ms
+2021-01-13 14:34:48.195 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 14:34:48.316 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-01-13 14:34:48.331 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-01-13 14:34:48.348 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 14:34:48.362 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Started LogaopApplication in 1.602 seconds (JVM running for 2.402)
+2021-01-13 14:35:12.911 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-13 14:35:12.912 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-01-13 14:35:12.913 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-01-13 14:35:12.931 [http-nio-8080-exec-1] INFO  com.sanshao.logaop.service.HelloService - sayHello hello world
+2021-01-13 14:57:30.060 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-13 14:59:41.964 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Starting LogaopApplication using Java 11.0.6 on sanshao.local with PID 35157 (/Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning/logaop/target/classes started by qiansanshao in /Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning)
+2021-01-13 14:59:41.967 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - No active profile set, falling back to default profiles: default
+2021-01-13 14:59:42.017 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-13 14:59:42.018 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-13 14:59:42.595 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-01-13 14:59:42.643 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39 ms. Found 1 JPA repository interfaces.
+2021-01-13 14:59:43.281 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-01-13 14:59:43.290 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-01-13 14:59:43.291 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 14:59:43.291 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 14:59:43.356 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 14:59:43.356 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1337 ms
+2021-01-13 14:59:43.562 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-01-13 14:59:43.627 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.25.Final
+2021-01-13 14:59:43.751 [restartedMain] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-13 14:59:43.831 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-01-13 14:59:44.133 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-01-13 14:59:44.145 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2021-01-13 14:59:44.735 [restartedMain] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-13 14:59:44.743 [restartedMain] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-01-13 14:59:44.784 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-01-13 14:59:45.271 [restartedMain] WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-01-13 14:59:45.420 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 14:59:45.664 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-01-13 14:59:45.683 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-13 14:59:45.693 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Started LogaopApplication in 4.263 seconds (JVM running for 5.181)
+2021-01-13 15:00:20.358 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-13 15:00:20.360 [SpringContextShutdownHook] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-01-13 15:00:20.364 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-01-13 15:00:20.380 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-01-13 15:00:24.345 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Starting LogaopApplication using Java 11.0.6 on sanshao.local with PID 35182 (/Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning/logaop/target/classes started by qiansanshao in /Users/qiansanshao/work/java/idea_workspace/SpringBoot2Learning)
+2021-01-13 15:00:24.348 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - No active profile set, falling back to default profiles: default
+2021-01-13 15:00:24.400 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-13 15:00:24.400 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-13 15:00:24.929 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-01-13 15:00:24.970 [restartedMain] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+2021-01-13 15:00:25.547 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2021-01-13 15:00:25.555 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2021-01-13 15:00:25.556 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-01-13 15:00:25.556 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-13 15:00:25.629 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-01-13 15:00:25.629 [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1228 ms
+2021-01-13 15:00:25.823 [restartedMain] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-01-13 15:00:25.875 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.25.Final
+2021-01-13 15:00:25.995 [restartedMain] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-01-13 15:00:26.094 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-01-13 15:00:26.412 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-01-13 15:00:26.427 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2021-01-13 15:00:26.924 [restartedMain] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-13 15:00:26.932 [restartedMain] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-01-13 15:00:26.973 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-01-13 15:00:27.496 [restartedMain] WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-01-13 15:00:27.643 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-13 15:00:27.947 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2021-01-13 15:00:27.969 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2021-01-13 15:00:27.981 [restartedMain] INFO  com.sanshao.logaop.LogaopApplication - Started LogaopApplication in 4.03 seconds (JVM running for 4.639)
+2021-01-13 15:00:31.426 [http-nio-9999-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-13 15:00:31.427 [http-nio-9999-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-01-13 15:00:31.428 [http-nio-9999-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-01-13 15:00:31.532 [http-nio-9999-exec-2] INFO  com.sanshao.logaop.logs.LogAspect - BeforeMethod  The method   addUser   parameter is  [SimpleUser(id=null, name=sanshaoaaa, age=1051, score=88.1)]
+2021-01-13 15:00:31.532 [http-nio-9999-exec-2] INFO  com.sanshao.logaop.logs.LogAspect - Add User
+2021-01-13 15:00:31.541 [http-nio-9999-exec-2] INFO  com.sanshao.logaop.service.SimpleUserService - Add a User
+2021-01-13 15:00:31.628 [http-nio-9999-exec-2] INFO  com.sanshao.logaop.logs.LogAspect - AfterReturningMethod  The method   addUser   parameter is  [SimpleUser(id=5, name=sanshaoaaa, age=1051, score=88.1)] SimpleUser(id=5, name=sanshaoaaa, age=1051, score=88.1)
+2021-01-13 15:00:31.628 [http-nio-9999-exec-2] INFO  com.sanshao.logaop.logs.LogAspect - AfterMethod  The method    addUser   parameter is  [SimpleUser(id=5, name=sanshaoaaa, age=1051, score=88.1)]
+2021-01-13 15:00:49.753 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-13 15:00:49.755 [SpringContextShutdownHook] INFO  org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-01-13 15:00:49.758 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-01-13 15:00:49.770 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
